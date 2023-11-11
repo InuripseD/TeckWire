@@ -1,0 +1,11 @@
+30/10- Création de GPU.php, onglet contenant la liste carte graphics qui seront en vente. Et une tentative de création de barre de navigation.
+31/10- Petit changement dans GPU.php, tentative d'inclusion d'un carousel dans la barre de navigation non concluent et addition d'un debut de structure de selection de critère pour l'affichage des GPUs.
+10/11- Mise en place de la page d'accueil, reflexion sur le principe d'installation d'un template.
+11/11- Commencement de la mise en place de fonction pour les template onglets(Ram,cpu etcs...)
+14/11- Création de toutes le tabs nécessaire à la naviguabilité du site
+17/11- Rendra mission: commencement de la mis en place du login avec signup signin.
+       Matteo mission: mise en place de la base de donnée.
+22-23-24/11- login, signup, logout et base de donnée.
+29/11- login, signupe et logout opérationnel.
+
+17/12-SITE FINIT et RENDUE

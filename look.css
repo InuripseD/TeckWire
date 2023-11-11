@@ -1,0 +1,141 @@
+body {
+  background-image: url("images/bg.jpg");
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+
+a:visited { text-decoration: none; color:white }
+a:hover { text-decoration: none; color:white }
+a:focus { text-decoration: none; color:white }
+a:active { text-decoration: none; color:white; }
+a:link {text-decoration: none; color:white;}
+
+.ui-panel {
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 360px;
+    height: auto;
+    background-color: #323232;
+    color: white;
+    border: 1px solid rgba(255, 0, 0, 0.815);
+    box-shadow: 0px 0px 12px rgba(0,0,0,0.3);
+    position: absolute;
+    margin-top: -130px;
+    margin-left: -181px;
+    top: 45%;
+    left: 50%;
+  }
+
+  .ui-panel2 {
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 360px;
+    height: auto;
+    background-color: #323232;
+    color: white;
+    border: 1px solid rgba(255, 0, 0, 0.815);
+    box-shadow: 0px 0px 12px rgba(0,0,0,0.3);
+    position: absolute;
+    margin-top: -130px;
+    margin-left: -181px;
+    top: 30%;
+    left: 50%;
+  }
+
+  .left-logo {
+    font: small-caps bold 12px/1 sans-serif;
+    height: 46px;
+    border-bottom: 1px solid  rgba(255, 0, 0, 0.815);
+    line-height: 46px;
+    padding: 0 28px;
+    font-size: 0.65em;
+    font-weight: 600;
+    letter-spacing: 0.3em;
+  }
+
+  .login-form {
+    padding: 18px 28px 0 28px;
+    font: small-caps bold 12px/1 sans-serif;
+
+  }
+  
+  .title { font-size: 0.92em; }
+    input {
+      font-size: 1.05em;
+      font-weight: 300;
+      margin-top: 18px;
+      padding: 10px 8px;
+      width: 288px;
+    }
+
+    footer {
+        padding: 26px 28px 22px 28px;
+        font-size: 0.82em;
+        }
+
+    .right-actions {
+        padding: 4px 8px;
+    }
+    
+    .register {
+        background-color: blue;
+        color: white;
+        border-radius: 2px;
+    }
+
+    .errors {
+      color : orange;
+    }
+  
+    .out-panel{
+      font: small-caps bold 42px/1 sans-serif;
+      position:absolute;
+      top:0;
+      left:0;
+      color : white;
+      animation-delay: 1s;
+    }
+
+    .container{
+      background-color: rgb(68, 67, 67, 0.5);
+      color: white;
+    }
+
+    .img-fluid {
+      border: 2px solid rgba(255, 0, 0, 0.815);
+    }
+
+    .offcanvas{
+      color:black;
+    }
+
+    .navbar-toggler{
+      color:white;
+    }
+
+    .forobjet{
+      position: fixed;
+      right: 90px;
+    }
+
+    .row-info{
+      color: white;
+    }
+
+    .dropdown-item{
+      color: white;
+    }
+
+    .rowfooter{
+      position:relative;
+      top:230px;
+    }
+
+    .container{
+      bottom: 0px;
+    }
+
+  

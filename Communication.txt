@@ -1,0 +1,21 @@
+Liste des choses dure à mettre en place:
+
+-un template pour les onglets principals (Ram, GPU, CPU etcs... affiche la même page mais avec des items differents à projeter. On doit trouver un moyen
+de créer une seul page qui affiche les différents objet présent dans la base de donnée selon si on est sur la page CPU ou GPU).
+    **ceci implique des fonctions php qui vont chercher les objets à afficher dans la base de données selon le 'code' de l'onglet sur lequel on est (au minimum)**
+    
+
+-de même un template pour quand on clique sur un objet, tous les objets sont présenté de la même façon, il nous faut donc un template.
+    **pareil, des fonctions qui vont chercher les infos dans la base de donnée selon le code de l'objet et affiche les infos relative**
+
+-systeme de cookies(encore inconnue pour moi) pour pouvoir rester connecté quand on s'est déjà connecté.
+    **permet de créer un historique avec les liste des commandes déjà passées, ainsi qu'un panier qui aura besoin de fonction pour savoir quels objets sont déjà
+    dans le panier**
+
+    Bonus(en fin de compte):
+        ~le principe de connexion qui propose de créer son propre ordinateur.
+
+
+-mettre le 2LOGIN et 2SIGNUP en fonctions pour pouvoir echo off canvas le 2LOGIN si sessions is not set (à faire dans l'accueil) 
+-verifier si la session est set dans toutes les pages !
+-pourquoi pas stocker la date d'inscription pour ajouter une donnée dans la page information (?)
